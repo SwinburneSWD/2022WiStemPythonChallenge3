@@ -1,2 +1,0 @@
-def printGoodBye():
-  print('GoodBye')
